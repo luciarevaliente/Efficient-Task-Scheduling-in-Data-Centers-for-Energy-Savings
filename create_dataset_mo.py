@@ -3,9 +3,9 @@ import numpy as np
 import pandas as pd
 
 # Configuración inicial
-num_tasks = 5000  # Número de tareas
-num_processors = 2000  # Número de procesadores
-num_processes_per_task = (200, 1000)  # Rango de procesos por tarea
+num_tasks = 25  # Número de tareas
+num_processors = 10  # Número de procesadores
+num_processes_per_task = (1, 5)  # Rango de procesos por tarea
 random.seed(42)
 np.random.seed(42)
 
