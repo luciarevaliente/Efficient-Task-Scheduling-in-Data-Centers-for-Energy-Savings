@@ -1,0 +1,45 @@
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - C:\Users\User\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\User\AppData\Local\Temp\85ffeb81a4104fdba34e7601289ea26d-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\User\AppData\Local\Temp\85ffeb81a4104fdba34e7601289ea26d-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 65 COLUMNS
+At line 474 RHS
+At line 535 BOUNDS
+At line 604 ENDATA
+Problem MODEL has 60 rows, 68 columns and 204 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Problem is infeasible - 0.00 seconds
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.02   (Wallclock seconds):       0.02
+
+Estat de la solució: -1
+x_T10_P5 = 1.0
+x_T11_P9 = 1.0
+x_T12_P8 = 1.0
+x_T13_P2 = 1.0
+x_T14_P7 = 1.0
+x_T15_P9 = 0.5
+x_T16_P6 = 1.0
+x_T17_P5 = 1.0
+x_T18_P9 = 1.0
+x_T19_P4 = 1.0
+x_T1_P5 = 1.0
+x_T20_P2 = 1.0
+x_T21_P4 = 0.5
+x_T22_P3 = 0.5
+x_T23_P4 = 0.5
+x_T24_P6 = 1.0
+x_T25_P1 = 1.0
+x_T2_P4 = 1.0
+x_T3_P5 = 1.0
+x_T4_P7 = 1.0
+x_T5_P5 = 1.0
+x_T6_P7 = 1.0
+x_T7_P4 = 1.0
+x_T8_P9 = 1.0
+x_T9_P4 = 1.0
+Energia mínima: 20.763579848141486
